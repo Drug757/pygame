@@ -27,13 +27,5 @@
 - всё реализовано в одном файле  
 - используется фиксированный FPS (60 кадров в секунду)
 
-Результат самой игры:
-
-<img width="586" height="411" alt="{92610933-A80D-4563-B74D-6CBF421E4A98}" src="https://github.com/user-attachments/assets/6e239d09-07a5-41a0-9998-2297f3931440" />
-
-Состояние, когда игрок врезался в красный квадрат:
-
-<img width="571" height="72" alt="{98991A54-A9CF-4F2B-8E3F-9DB76A71FAF8}" src="https://github.com/user-attachments/assets/cbd978e6-f668-4605-bd71-e72844d06dae" />
-
 ## 6. Источник ТЗ
 сам придумал
