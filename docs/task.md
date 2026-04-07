@@ -34,3 +34,6 @@
 Состояние, когда игрок врезался в красный квадрат:
 
 <img width="571" height="72" alt="{98991A54-A9CF-4F2B-8E3F-9DB76A71FAF8}" src="https://github.com/user-attachments/assets/cbd978e6-f668-4605-bd71-e72844d06dae" />
+
+## 6. Источник ТЗ
+сам придумал
